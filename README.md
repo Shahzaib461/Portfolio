@@ -1,20 +1,33 @@
-# Jrox Movers – Moving Services Website
+# WordPress Portfolio – Developer Projects
 
-Live Site: [https://jroxmovers.com/](https://jroxmovers.com/)
+This portfolio showcases websites I built using WordPress, Elementor, WooCommerce, and SEO optimization tools.
 
-## Tools Used
-- WordPress
-- Astra Theme
-- Elementor
-- WooCommerce
-- Rank Math SEO
+---
 
-## My Role
-- Developed and customized the website layout and design
-- Set up WooCommerce for service bookings and payments
-- Implemented SEO strategies to improve online visibility
-- Optimized site speed and mobile responsiveness
-- Added custom forms and live chat integration
+## 1. [Chazzies.com](https://chazzies.com/)
 
-## Notes
-Created a user-friendly site focused on service bookings and easy navigation.# Portfolio
+**Type:** Business Website  
+**Tools Used:** WordPress, Astra Theme, Elementor, Yoast SEO  
+
+**My Role:**
+- Designed and built a clean, responsive business website
+- Added contact forms and social links
+- Applied basic on-page SEO
+- Ensured mobile-friendly layout and smooth navigation
+
+---
+
+## 2. [JroxMovers.com](https://jroxmovers.com/)
+
+**Type:** Moving & Storage Services Website  
+**Tools Used:** WordPress, Astra Theme, Elementor, WooCommerce, Rank Math SEO  
+
+**My Role:**
+- Developed a full business site with WooCommerce integration
+- Customized service pages and booking layout
+- Added custom contact and quote forms
+- Applied SEO settings and performance optimization
+
+---
+
+## More projects coming soon...
